@@ -2,6 +2,7 @@ from tkinter import*
 from tkinter import ttk
 from PIL import Image,ImageTk
 from PIL._imaging import font
+from student import  Student
 
 
 class Face_Recognition_System:
